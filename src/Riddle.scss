@@ -1,0 +1,47 @@
+.riddle_container{
+    background: rgb(167, 130, 61);
+    margin: 2% 5% 0 5%;   
+    width: 400px; 
+    padding-left: 12px;
+    height: 700px;
+    border-radius: 5px;
+    border: 4px solid black;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+
+.cipher_container{
+    // background: rgb(167, 130, 61);
+    margin: 1% 5% 0 5%;
+    width: 50%;
+    padding: 12px;
+    height: 350px;
+    border-radius: 5px;
+
+
+    .Info{
+        margin-bottom: 5%;
+        background: rgb(167, 130, 61);
+        padding: 12px;
+        border-radius: 5px; 
+        border: 4px solid black;
+    }
+
+
+    .cipher{
+        background: rgb(167, 130, 61);
+        border: 4px solid black;
+        padding: 12px;
+        border-radius: 5px; 
+    }
+    
+   
+
+
+}
+
+
+
