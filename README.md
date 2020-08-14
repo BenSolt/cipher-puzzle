@@ -1,6 +1,6 @@
 
 # Description
- A simple React app that show cases a riddle and a cipher.
+ A simple React App that show cases a riddle and a cipher.
 
 
  
